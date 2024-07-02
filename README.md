@@ -24,3 +24,5 @@ Finally, provide some basic statistics about the size of the equivalence classes
 much data is mapping to them. This sort of summary can be provided in a figure/plot.
 An additional tip: you can take the aligned data and compute equivalence classes directly
 from it to check your answer.
+
+a file reads.fasta is missing because it is larger than 25MB
